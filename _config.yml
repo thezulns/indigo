@@ -19,7 +19,7 @@ resume: true
 resume-external: false
 resume-url: 
 
-url: https://sergiokopplin.github.io/indigo
+url: 
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -33,12 +33,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#facebook: myfacebook
+#twitter: mytwitter
+#instagram: myinstagram
+linkedin: https://www.linkedin.com/in/zulfadli-noor-sazali-b6187191
+github: https://github.com/thezulns
+email: hello@thezulns.id.au
 
 authors:
   johndoe:
@@ -71,7 +71,7 @@ pagination:
 projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: true
+about: false
 blog: false
 
 # do you want to show the "read time" of the posts?
